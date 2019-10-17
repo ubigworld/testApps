@@ -32,6 +32,8 @@ class MainActivity : AppCompatActivity() {
 
         i+8;// /또다시 새로운 브런치
 
+        i+9;//2커및
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
