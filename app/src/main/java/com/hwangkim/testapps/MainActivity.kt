@@ -26,6 +26,8 @@ class MainActivity : AppCompatActivity() {
 
         i+5;  //맥에서 수정
 
+        i+6; //새로운 브런치를 생성하다
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
