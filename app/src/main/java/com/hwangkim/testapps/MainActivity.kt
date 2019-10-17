@@ -34,6 +34,8 @@ class MainActivity : AppCompatActivity() {
 
         i+9;//2커및
 
+        i+10;
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
