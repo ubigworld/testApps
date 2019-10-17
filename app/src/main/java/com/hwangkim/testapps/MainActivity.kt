@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         i+2;
         i+3;
 
+        i+4;    //노트북에서 수정
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
