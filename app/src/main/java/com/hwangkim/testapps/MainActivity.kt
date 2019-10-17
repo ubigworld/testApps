@@ -30,6 +30,8 @@ class MainActivity : AppCompatActivity() {
 
         i+7;//브런치 생성후 변경하다
 
+        i+8;// /또다시 새로운 브런치
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
