@@ -24,7 +24,6 @@ class MainActivity : AppCompatActivity() {
         i+2;
         i+3;
 
-        i+5;    //맥에서
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
